@@ -1,5 +1,5 @@
 package com.example.restmvc.model;
 
 public enum BeerStyle {
-     PALE_ALE, IPA;
+     LAGER, PILSNER, STOUT, GOSE, PORTER, WHEAT, SAISON, ALE, PALE_ALE, IPA;
 }
